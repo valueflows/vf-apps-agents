@@ -1,5 +1,5 @@
 # vf-apps-agents
-This repo will define apps for both individual (personal) agents as well as organizational agents.
+This repo will define some requirements for apps for both individual (personal) agents as well as organizational agents.
 
 Agent apps are required for [agent-centric computing](https://github.com/valueflows/vf-apps-agents/wiki/Agent-centric-computing).
 
