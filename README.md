@@ -1,9 +1,9 @@
 # vf-apps-agents
 This repo will define some requirements for apps for both individual (personal) agents as well as organizational agents.
 
-Agent apps are required for [agent-centric computing](https://github.com/valueflows/vf-apps-agents/wiki/Agent-centric-computing).
+Agent apps are required for [agent-centric computing](https://github.com/valueflows/vf-apps-agents/wiki/Agent-centric-computing). They are will be the main apps in such configurations, and the agents will be the selectors and users of all the other apps.
 
-[A personal Agent app](https://github.com/opencooperativeecosystem/agent) has already been created and is in use in FairCoop.
+[A personal Agent app](https://github.com/opencooperativeecosystem/agent) has already been started and is in daily use in FairCoop.going through feedback loops with users.
 
 ![Agent app](https://user-images.githubusercontent.com/117439/43355797-819560f2-9228-11e8-9a42-8ba7ec1a8a34.jpeg)
 
