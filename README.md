@@ -19,7 +19,7 @@ A person or organization is represented by an Agent:
 
 ![agent connections 1](https://user-images.githubusercontent.com/117439/43356231-442acea0-9232-11e8-834f-040f5b2aa262.jpg)
 
-One Agent might be connected to others by Agent Relationships. Those will be managed by an AgentRelationship apps.
+One Agent might be connected to others by Agent Relationships. Those will be managed by an AgentRelationship apps. Here is a lovely [example of an AgentRelationship app](http://holodex.enspiral.com/) with [code](https://github.com/holodex/holodex).
 
 ![agent connections 2](https://user-images.githubusercontent.com/117439/43356250-8461ca32-9232-11e8-88d5-6ae0f554ad1f.jpg)
 
