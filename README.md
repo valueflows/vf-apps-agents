@@ -11,7 +11,9 @@ This diagram shows both the existing personal agent app as well as the planned o
 
 ![agent-centric](https://user-images.githubusercontent.com/117439/43346048-60424b7c-91b5-11e8-9c31-ded327eb5737.jpeg)
 
-An Agent app needs to understand all of the connections that Agents have with other objects in the ValueFlows continuum. The diagrams below were excerpted from https://speakerdeck.com/mikorizal/everything-in-valueflows-is-connected-to-everything-else which still shows the datamodel names from NRP, but the relationships are the same as in VF. (Soon we will replace these with the correct VF model names.)
+An Agent app needs to represent and manage all of the connections that Agents have with other objects in the ValueFlows continuum. 
+
+The diagrams below were excerpted from https://speakerdeck.com/mikorizal/everything-in-valueflows-is-connected-to-everything-else which still shows the datamodel names from NRP, but the relationships are the same as in VF. (Soon we will replace these with the correct VF model names.)
 
 A person or organization is represented by an Agent:
 
