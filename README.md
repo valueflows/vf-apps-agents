@@ -30,3 +30,5 @@ An Agent is also connected to all the Economic Events they have participated in.
 An Agent might have custody or some other relationship with Economic Resources. Those will be managed by Inventory apps.
 
 ![agent connections 4](https://user-images.githubusercontent.com/117439/43356283-3435d930-9233-11e8-8b75-f26097930526.jpg)
+
+You can find data for Agents and AgentRelationships in a variety of formats at the [Vocabulator](http://valueflows.pythonanywhere.com/). More data to come.
