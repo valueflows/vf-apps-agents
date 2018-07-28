@@ -5,7 +5,7 @@ Agent apps are required for [agent-centric computing](https://github.com/valuefl
 
 [A personal Agent app](https://github.com/opencooperativeecosystem/agent) has already been created and is in use in FairCoop.
 
-* need screenshots
+![Agent app](https://user-images.githubusercontent.com/117439/43355797-819560f2-9228-11e8-9a42-8ba7ec1a8a34.jpeg)
 
 This diagram shows both the existing personal agent app as well as the planned organizational agent app in the FairCoop context, with some of the existing and planned features and extensions surrounding them.
 
