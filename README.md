@@ -31,4 +31,8 @@ An Agent might have custody or some other relationship with Economic Resources. 
 
 ![agent connections 4](https://user-images.githubusercontent.com/117439/43356283-3435d930-9233-11e8-8b75-f26097930526.jpg)
 
+An Agent might have Commitments with other Agents about Processes or Exchanges which might be parts of Plans. Those might all be managed by Planning apps.
+
+![agent connections 5](https://user-images.githubusercontent.com/117439/43360938-e5e8a442-9287-11e8-8e0d-68b12ffd1084.png)
+
 You can find data for Agents and AgentRelationships in a variety of formats at the [Vocabulator](http://valueflows.pythonanywhere.com/). More data to come.
