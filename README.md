@@ -36,3 +36,5 @@ An Agent might have Commitments with other Agents about Processes or Exchanges w
 ![agent connections 5](https://user-images.githubusercontent.com/117439/43360938-e5e8a442-9287-11e8-8e0d-68b12ffd1084.png)
 
 You can find data for Agents and AgentRelationships in a variety of formats at the [Vocabulator](http://valueflows.pythonanywhere.com/). More data to come for all those other Agent connections.
+
+[This issue](https://github.com/valueflows/vf-apps-agents/issues/1) starts an exploration of the differences between individual and group Agent apps.
